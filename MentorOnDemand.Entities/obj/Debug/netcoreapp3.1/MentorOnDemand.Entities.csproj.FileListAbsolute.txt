@@ -1,0 +1,8 @@
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.deps.json
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\obj\Debug\netcoreapp3.1\MentorOnDemand.Entities.AssemblyInfoInputs.cache
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\obj\Debug\netcoreapp3.1\MentorOnDemand.Entities.AssemblyInfo.cs
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\obj\Debug\netcoreapp3.1\MentorOnDemand.Entities.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\obj\Debug\netcoreapp3.1\MentorOnDemand.Entities.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.Entities\obj\Debug\netcoreapp3.1\MentorOnDemand.Entities.csprojAssemblyReference.cache

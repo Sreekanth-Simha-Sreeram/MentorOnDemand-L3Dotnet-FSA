@@ -1,0 +1,11 @@
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.deps.json
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.AssemblyInfo.cs
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.csprojAssemblyReference.cache
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.DataLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.csproj.CopyComplete

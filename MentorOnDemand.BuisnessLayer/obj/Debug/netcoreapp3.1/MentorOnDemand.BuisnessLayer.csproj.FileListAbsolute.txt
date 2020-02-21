@@ -1,0 +1,13 @@
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.deps.json
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.AssemblyInfo.cs
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.dll
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.DataLayer.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\bin\Debug\netcoreapp3.1\MentorOnDemand.Entities.pdb
+C:\Users\hmmer\source\repos\MentorOnDemand\MentorOnDemand.BuisnessLayer\obj\Debug\netcoreapp3.1\MentorOnDemand.BuisnessLayer.csproj.CopyComplete
